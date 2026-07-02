@@ -38,8 +38,13 @@ Consistent practice and clean implementation.
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/NitinKumai/Data--Structures-and--Algorithm-/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0485-max-consecutive-ones](https://github.com/NitinKumai/Data--Structures-and--Algorithm-/tree/master/0485-max-consecutive-ones) |
+| [0643-maximum-average-subarray-i](https://github.com/NitinKumai/Data--Structures-and--Algorithm-/tree/master/0643-maximum-average-subarray-i) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/NitinKumai/Data--Structures-and--Algorithm-/tree/master/0121-best-time-to-buy-and-sell-stock) |
+## Sliding Window
+|  |
+| ------- |
+| [0643-maximum-average-subarray-i](https://github.com/NitinKumai/Data--Structures-and--Algorithm-/tree/master/0643-maximum-average-subarray-i) |
 <!---LeetCode Topics End-->
