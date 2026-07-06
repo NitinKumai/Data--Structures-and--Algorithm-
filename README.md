@@ -36,6 +36,7 @@ Consistent practice and clean implementation.
 ## Array
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/NitinKumai/Data--Structures-and--Algorithm-/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/NitinKumai/Data--Structures-and--Algorithm-/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0219-contains-duplicate-ii](https://github.com/NitinKumai/Data--Structures-and--Algorithm-/tree/master/0219-contains-duplicate-ii) |
 | [0283-move-zeroes](https://github.com/NitinKumai/Data--Structures-and--Algorithm-/tree/master/0283-move-zeroes) |
@@ -100,6 +101,7 @@ Consistent practice and clean implementation.
 ## Two Pointers
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/NitinKumai/Data--Structures-and--Algorithm-/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0283-move-zeroes](https://github.com/NitinKumai/Data--Structures-and--Algorithm-/tree/master/0283-move-zeroes) |
 | [0567-permutation-in-string](https://github.com/NitinKumai/Data--Structures-and--Algorithm-/tree/master/0567-permutation-in-string) |
 <!---LeetCode Topics End-->
