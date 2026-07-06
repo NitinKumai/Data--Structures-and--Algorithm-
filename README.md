@@ -36,6 +36,7 @@ Consistent practice and clean implementation.
 ## Array
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/NitinKumai/Data--Structures-and--Algorithm-/tree/master/0004-median-of-two-sorted-arrays) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/NitinKumai/Data--Structures-and--Algorithm-/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/NitinKumai/Data--Structures-and--Algorithm-/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0219-contains-duplicate-ii](https://github.com/NitinKumai/Data--Structures-and--Algorithm-/tree/master/0219-contains-duplicate-ii) |
@@ -93,6 +94,7 @@ Consistent practice and clean implementation.
 ## Binary Search
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/NitinKumai/Data--Structures-and--Algorithm-/tree/master/0004-median-of-two-sorted-arrays) |
 | [1004-max-consecutive-ones-iii](https://github.com/NitinKumai/Data--Structures-and--Algorithm-/tree/master/1004-max-consecutive-ones-iii) |
 ## Prefix Sum
 |  |
@@ -104,4 +106,8 @@ Consistent practice and clean implementation.
 | [0026-remove-duplicates-from-sorted-array](https://github.com/NitinKumai/Data--Structures-and--Algorithm-/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0283-move-zeroes](https://github.com/NitinKumai/Data--Structures-and--Algorithm-/tree/master/0283-move-zeroes) |
 | [0567-permutation-in-string](https://github.com/NitinKumai/Data--Structures-and--Algorithm-/tree/master/0567-permutation-in-string) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/NitinKumai/Data--Structures-and--Algorithm-/tree/master/0004-median-of-two-sorted-arrays) |
 <!---LeetCode Topics End-->
