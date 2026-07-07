@@ -44,6 +44,7 @@ Consistent practice and clean implementation.
 | [0303-range-sum-query-immutable](https://github.com/NitinKumai/Data--Structures-and--Algorithm-/tree/master/0303-range-sum-query-immutable) |
 | [0485-max-consecutive-ones](https://github.com/NitinKumai/Data--Structures-and--Algorithm-/tree/master/0485-max-consecutive-ones) |
 | [0643-maximum-average-subarray-i](https://github.com/NitinKumai/Data--Structures-and--Algorithm-/tree/master/0643-maximum-average-subarray-i) |
+| [0724-find-pivot-index](https://github.com/NitinKumai/Data--Structures-and--Algorithm-/tree/master/0724-find-pivot-index) |
 | [0904-fruit-into-baskets](https://github.com/NitinKumai/Data--Structures-and--Algorithm-/tree/master/0904-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/NitinKumai/Data--Structures-and--Algorithm-/tree/master/1004-max-consecutive-ones-iii) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/NitinKumai/Data--Structures-and--Algorithm-/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
@@ -105,6 +106,7 @@ Consistent practice and clean implementation.
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/NitinKumai/Data--Structures-and--Algorithm-/tree/master/0303-range-sum-query-immutable) |
+| [0724-find-pivot-index](https://github.com/NitinKumai/Data--Structures-and--Algorithm-/tree/master/0724-find-pivot-index) |
 | [1004-max-consecutive-ones-iii](https://github.com/NitinKumai/Data--Structures-and--Algorithm-/tree/master/1004-max-consecutive-ones-iii) |
 | [1480-running-sum-of-1d-array](https://github.com/NitinKumai/Data--Structures-and--Algorithm-/tree/master/1480-running-sum-of-1d-array) |
 ## Two Pointers
