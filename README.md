@@ -40,6 +40,7 @@ Consistent practice and clean implementation.
 | [0026-remove-duplicates-from-sorted-array](https://github.com/NitinKumai/Data--Structures-and--Algorithm-/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/NitinKumai/Data--Structures-and--Algorithm-/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0219-contains-duplicate-ii](https://github.com/NitinKumai/Data--Structures-and--Algorithm-/tree/master/0219-contains-duplicate-ii) |
+| [0238-product-of-array-except-self](https://github.com/NitinKumai/Data--Structures-and--Algorithm-/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/NitinKumai/Data--Structures-and--Algorithm-/tree/master/0283-move-zeroes) |
 | [0303-range-sum-query-immutable](https://github.com/NitinKumai/Data--Structures-and--Algorithm-/tree/master/0303-range-sum-query-immutable) |
 | [0485-max-consecutive-ones](https://github.com/NitinKumai/Data--Structures-and--Algorithm-/tree/master/0485-max-consecutive-ones) |
@@ -107,6 +108,7 @@ Consistent practice and clean implementation.
 ## Prefix Sum
 |  |
 | ------- |
+| [0238-product-of-array-except-self](https://github.com/NitinKumai/Data--Structures-and--Algorithm-/tree/master/0238-product-of-array-except-self) |
 | [0303-range-sum-query-immutable](https://github.com/NitinKumai/Data--Structures-and--Algorithm-/tree/master/0303-range-sum-query-immutable) |
 | [0724-find-pivot-index](https://github.com/NitinKumai/Data--Structures-and--Algorithm-/tree/master/0724-find-pivot-index) |
 | [1004-max-consecutive-ones-iii](https://github.com/NitinKumai/Data--Structures-and--Algorithm-/tree/master/1004-max-consecutive-ones-iii) |
