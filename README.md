@@ -54,6 +54,7 @@ Consistent practice and clean implementation.
 | [1732-find-the-highest-altitude](https://github.com/NitinKumai/Data--Structures-and--Algorithm-/tree/master/1732-find-the-highest-altitude) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/NitinKumai/Data--Structures-and--Algorithm-/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/NitinKumai/Data--Structures-and--Algorithm-/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
+| [2574-left-and-right-sum-differences](https://github.com/NitinKumai/Data--Structures-and--Algorithm-/tree/master/2574-left-and-right-sum-differences) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -114,6 +115,7 @@ Consistent practice and clean implementation.
 | [1004-max-consecutive-ones-iii](https://github.com/NitinKumai/Data--Structures-and--Algorithm-/tree/master/1004-max-consecutive-ones-iii) |
 | [1480-running-sum-of-1d-array](https://github.com/NitinKumai/Data--Structures-and--Algorithm-/tree/master/1480-running-sum-of-1d-array) |
 | [1732-find-the-highest-altitude](https://github.com/NitinKumai/Data--Structures-and--Algorithm-/tree/master/1732-find-the-highest-altitude) |
+| [2574-left-and-right-sum-differences](https://github.com/NitinKumai/Data--Structures-and--Algorithm-/tree/master/2574-left-and-right-sum-differences) |
 ## Two Pointers
 |  |
 | ------- |
