@@ -36,6 +36,7 @@ Consistent practice and clean implementation.
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/NitinKumai/Data--Structures-and--Algorithm-/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/NitinKumai/Data--Structures-and--Algorithm-/tree/master/0004-median-of-two-sorted-arrays) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/NitinKumai/Data--Structures-and--Algorithm-/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/NitinKumai/Data--Structures-and--Algorithm-/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -95,6 +96,7 @@ Consistent practice and clean implementation.
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/NitinKumai/Data--Structures-and--Algorithm-/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/NitinKumai/Data--Structures-and--Algorithm-/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0219-contains-duplicate-ii](https://github.com/NitinKumai/Data--Structures-and--Algorithm-/tree/master/0219-contains-duplicate-ii) |
 | [0424-longest-repeating-character-replacement](https://github.com/NitinKumai/Data--Structures-and--Algorithm-/tree/master/0424-longest-repeating-character-replacement) |
