@@ -38,6 +38,7 @@ Consistent practice and clean implementation.
 | ------- |
 | [0001-two-sum](https://github.com/NitinKumai/Data--Structures-and--Algorithm-/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/NitinKumai/Data--Structures-and--Algorithm-/tree/master/0004-median-of-two-sorted-arrays) |
+| [0011-container-with-most-water](https://github.com/NitinKumai/Data--Structures-and--Algorithm-/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/NitinKumai/Data--Structures-and--Algorithm-/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/NitinKumai/Data--Structures-and--Algorithm-/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0219-contains-duplicate-ii](https://github.com/NitinKumai/Data--Structures-and--Algorithm-/tree/master/0219-contains-duplicate-ii) |
@@ -124,6 +125,7 @@ Consistent practice and clean implementation.
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/NitinKumai/Data--Structures-and--Algorithm-/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/NitinKumai/Data--Structures-and--Algorithm-/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0283-move-zeroes](https://github.com/NitinKumai/Data--Structures-and--Algorithm-/tree/master/0283-move-zeroes) |
 | [0567-permutation-in-string](https://github.com/NitinKumai/Data--Structures-and--Algorithm-/tree/master/0567-permutation-in-string) |
@@ -135,4 +137,8 @@ Consistent practice and clean implementation.
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/NitinKumai/Data--Structures-and--Algorithm-/tree/master/0303-range-sum-query-immutable) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/NitinKumai/Data--Structures-and--Algorithm-/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->
