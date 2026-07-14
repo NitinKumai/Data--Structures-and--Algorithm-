@@ -42,6 +42,7 @@ Consistent practice and clean implementation.
 | [0011-container-with-most-water](https://github.com/NitinKumai/Data--Structures-and--Algorithm-/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/NitinKumai/Data--Structures-and--Algorithm-/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/NitinKumai/Data--Structures-and--Algorithm-/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0053-maximum-subarray](https://github.com/NitinKumai/Data--Structures-and--Algorithm-/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/NitinKumai/Data--Structures-and--Algorithm-/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0219-contains-duplicate-ii](https://github.com/NitinKumai/Data--Structures-and--Algorithm-/tree/master/0219-contains-duplicate-ii) |
 | [0238-product-of-array-except-self](https://github.com/NitinKumai/Data--Structures-and--Algorithm-/tree/master/0238-product-of-array-except-self) |
@@ -63,6 +64,7 @@ Consistent practice and clean implementation.
 ## Dynamic Programming
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/NitinKumai/Data--Structures-and--Algorithm-/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/NitinKumai/Data--Structures-and--Algorithm-/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/NitinKumai/Data--Structures-and--Algorithm-/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 ## Sliding Window
@@ -139,6 +141,7 @@ Consistent practice and clean implementation.
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/NitinKumai/Data--Structures-and--Algorithm-/tree/master/0004-median-of-two-sorted-arrays) |
+| [0053-maximum-subarray](https://github.com/NitinKumai/Data--Structures-and--Algorithm-/tree/master/0053-maximum-subarray) |
 ## Design
 |  |
 | ------- |
