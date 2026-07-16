@@ -60,6 +60,7 @@ Consistent practice and clean implementation.
 | [1480-running-sum-of-1d-array](https://github.com/NitinKumai/Data--Structures-and--Algorithm-/tree/master/1480-running-sum-of-1d-array) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/NitinKumai/Data--Structures-and--Algorithm-/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1732-find-the-highest-altitude](https://github.com/NitinKumai/Data--Structures-and--Algorithm-/tree/master/1732-find-the-highest-altitude) |
+| [1749-maximum-absolute-sum-of-any-subarray](https://github.com/NitinKumai/Data--Structures-and--Algorithm-/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/NitinKumai/Data--Structures-and--Algorithm-/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/NitinKumai/Data--Structures-and--Algorithm-/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2574-left-and-right-sum-differences](https://github.com/NitinKumai/Data--Structures-and--Algorithm-/tree/master/2574-left-and-right-sum-differences) |
@@ -71,6 +72,7 @@ Consistent practice and clean implementation.
 | [0152-maximum-product-subarray](https://github.com/NitinKumai/Data--Structures-and--Algorithm-/tree/master/0152-maximum-product-subarray) |
 | [0918-maximum-sum-circular-subarray](https://github.com/NitinKumai/Data--Structures-and--Algorithm-/tree/master/0918-maximum-sum-circular-subarray) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/NitinKumai/Data--Structures-and--Algorithm-/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
+| [1749-maximum-absolute-sum-of-any-subarray](https://github.com/NitinKumai/Data--Structures-and--Algorithm-/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 ## Sliding Window
 |  |
 | ------- |
