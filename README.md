@@ -42,6 +42,7 @@ Consistent practice and clean implementation.
 | [0011-container-with-most-water](https://github.com/NitinKumai/Data--Structures-and--Algorithm-/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/NitinKumai/Data--Structures-and--Algorithm-/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/NitinKumai/Data--Structures-and--Algorithm-/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0033-search-in-rotated-sorted-array](https://github.com/NitinKumai/Data--Structures-and--Algorithm-/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/NitinKumai/Data--Structures-and--Algorithm-/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/NitinKumai/Data--Structures-and--Algorithm-/tree/master/0035-search-insert-position) |
 | [0053-maximum-subarray](https://github.com/NitinKumai/Data--Structures-and--Algorithm-/tree/master/0053-maximum-subarray) |
@@ -126,6 +127,7 @@ Consistent practice and clean implementation.
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/NitinKumai/Data--Structures-and--Algorithm-/tree/master/0004-median-of-two-sorted-arrays) |
+| [0033-search-in-rotated-sorted-array](https://github.com/NitinKumai/Data--Structures-and--Algorithm-/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/NitinKumai/Data--Structures-and--Algorithm-/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/NitinKumai/Data--Structures-and--Algorithm-/tree/master/0035-search-insert-position) |
 | [0704-binary-search](https://github.com/NitinKumai/Data--Structures-and--Algorithm-/tree/master/0704-binary-search) |
