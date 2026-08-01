@@ -67,6 +67,7 @@ Consistent practice and clean implementation.
 | [0904-fruit-into-baskets](https://github.com/NitinKumai/Data--Structures-and--Algorithm-/tree/master/0904-fruit-into-baskets) |
 | [0918-maximum-sum-circular-subarray](https://github.com/NitinKumai/Data--Structures-and--Algorithm-/tree/master/0918-maximum-sum-circular-subarray) |
 | [1004-max-consecutive-ones-iii](https://github.com/NitinKumai/Data--Structures-and--Algorithm-/tree/master/1004-max-consecutive-ones-iii) |
+| [1011-capacity-to-ship-packages-within-d-days](https://github.com/NitinKumai/Data--Structures-and--Algorithm-/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/NitinKumai/Data--Structures-and--Algorithm-/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1480-running-sum-of-1d-array](https://github.com/NitinKumai/Data--Structures-and--Algorithm-/tree/master/1480-running-sum-of-1d-array) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/NitinKumai/Data--Structures-and--Algorithm-/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
@@ -144,6 +145,7 @@ Consistent practice and clean implementation.
 | [0704-binary-search](https://github.com/NitinKumai/Data--Structures-and--Algorithm-/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/NitinKumai/Data--Structures-and--Algorithm-/tree/master/0875-koko-eating-bananas) |
 | [1004-max-consecutive-ones-iii](https://github.com/NitinKumai/Data--Structures-and--Algorithm-/tree/master/1004-max-consecutive-ones-iii) |
+| [1011-capacity-to-ship-packages-within-d-days](https://github.com/NitinKumai/Data--Structures-and--Algorithm-/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 ## Prefix Sum
 |  |
 | ------- |
