@@ -63,6 +63,7 @@ Consistent practice and clean implementation.
 | [0643-maximum-average-subarray-i](https://github.com/NitinKumai/Data--Structures-and--Algorithm-/tree/master/0643-maximum-average-subarray-i) |
 | [0704-binary-search](https://github.com/NitinKumai/Data--Structures-and--Algorithm-/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/NitinKumai/Data--Structures-and--Algorithm-/tree/master/0724-find-pivot-index) |
+| [0875-koko-eating-bananas](https://github.com/NitinKumai/Data--Structures-and--Algorithm-/tree/master/0875-koko-eating-bananas) |
 | [0904-fruit-into-baskets](https://github.com/NitinKumai/Data--Structures-and--Algorithm-/tree/master/0904-fruit-into-baskets) |
 | [0918-maximum-sum-circular-subarray](https://github.com/NitinKumai/Data--Structures-and--Algorithm-/tree/master/0918-maximum-sum-circular-subarray) |
 | [1004-max-consecutive-ones-iii](https://github.com/NitinKumai/Data--Structures-and--Algorithm-/tree/master/1004-max-consecutive-ones-iii) |
@@ -141,6 +142,7 @@ Consistent practice and clean implementation.
 | [0162-find-peak-element](https://github.com/NitinKumai/Data--Structures-and--Algorithm-/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/NitinKumai/Data--Structures-and--Algorithm-/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0704-binary-search](https://github.com/NitinKumai/Data--Structures-and--Algorithm-/tree/master/0704-binary-search) |
+| [0875-koko-eating-bananas](https://github.com/NitinKumai/Data--Structures-and--Algorithm-/tree/master/0875-koko-eating-bananas) |
 | [1004-max-consecutive-ones-iii](https://github.com/NitinKumai/Data--Structures-and--Algorithm-/tree/master/1004-max-consecutive-ones-iii) |
 ## Prefix Sum
 |  |
