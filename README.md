@@ -70,6 +70,7 @@ Consistent practice and clean implementation.
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/NitinKumai/Data--Structures-and--Algorithm-/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/NitinKumai/Data--Structures-and--Algorithm-/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1480-running-sum-of-1d-array](https://github.com/NitinKumai/Data--Structures-and--Algorithm-/tree/master/1480-running-sum-of-1d-array) |
+| [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/NitinKumai/Data--Structures-and--Algorithm-/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/NitinKumai/Data--Structures-and--Algorithm-/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1732-find-the-highest-altitude](https://github.com/NitinKumai/Data--Structures-and--Algorithm-/tree/master/1732-find-the-highest-altitude) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/NitinKumai/Data--Structures-and--Algorithm-/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
@@ -147,6 +148,7 @@ Consistent practice and clean implementation.
 | [0875-koko-eating-bananas](https://github.com/NitinKumai/Data--Structures-and--Algorithm-/tree/master/0875-koko-eating-bananas) |
 | [1004-max-consecutive-ones-iii](https://github.com/NitinKumai/Data--Structures-and--Algorithm-/tree/master/1004-max-consecutive-ones-iii) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/NitinKumai/Data--Structures-and--Algorithm-/tree/master/1011-capacity-to-ship-packages-within-d-days) |
+| [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/NitinKumai/Data--Structures-and--Algorithm-/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1870-minimum-speed-to-arrive-on-time](https://github.com/NitinKumai/Data--Structures-and--Algorithm-/tree/master/1870-minimum-speed-to-arrive-on-time) |
 ## Prefix Sum
 |  |
