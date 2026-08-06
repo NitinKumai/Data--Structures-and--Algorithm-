@@ -112,6 +112,7 @@ Consistent practice and clean implementation.
 | [0003-longest-substring-without-repeating-characters](https://github.com/NitinKumai/Data--Structures-and--Algorithm-/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0006-zigzag-conversion](https://github.com/NitinKumai/Data--Structures-and--Algorithm-/tree/master/0006-zigzag-conversion) |
 | [0012-integer-to-roman](https://github.com/NitinKumai/Data--Structures-and--Algorithm-/tree/master/0012-integer-to-roman) |
+| [0020-valid-parentheses](https://github.com/NitinKumai/Data--Structures-and--Algorithm-/tree/master/0020-valid-parentheses) |
 | [0424-longest-repeating-character-replacement](https://github.com/NitinKumai/Data--Structures-and--Algorithm-/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/NitinKumai/Data--Structures-and--Algorithm-/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/NitinKumai/Data--Structures-and--Algorithm-/tree/master/0567-permutation-in-string) |
@@ -204,4 +205,12 @@ Consistent practice and clean implementation.
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/NitinKumai/Data--Structures-and--Algorithm-/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/NitinKumai/Data--Structures-and--Algorithm-/tree/master/0240-search-a-2d-matrix-ii) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/NitinKumai/Data--Structures-and--Algorithm-/tree/master/0020-valid-parentheses) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/NitinKumai/Data--Structures-and--Algorithm-/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
