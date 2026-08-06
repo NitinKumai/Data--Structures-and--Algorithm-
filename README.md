@@ -57,6 +57,7 @@ Consistent practice and clean implementation.
 | [0189-rotate-array](https://github.com/NitinKumai/Data--Structures-and--Algorithm-/tree/master/0189-rotate-array) |
 | [0219-contains-duplicate-ii](https://github.com/NitinKumai/Data--Structures-and--Algorithm-/tree/master/0219-contains-duplicate-ii) |
 | [0238-product-of-array-except-self](https://github.com/NitinKumai/Data--Structures-and--Algorithm-/tree/master/0238-product-of-array-except-self) |
+| [0240-search-a-2d-matrix-ii](https://github.com/NitinKumai/Data--Structures-and--Algorithm-/tree/master/0240-search-a-2d-matrix-ii) |
 | [0283-move-zeroes](https://github.com/NitinKumai/Data--Structures-and--Algorithm-/tree/master/0283-move-zeroes) |
 | [0303-range-sum-query-immutable](https://github.com/NitinKumai/Data--Structures-and--Algorithm-/tree/master/0303-range-sum-query-immutable) |
 | [0485-max-consecutive-ones](https://github.com/NitinKumai/Data--Structures-and--Algorithm-/tree/master/0485-max-consecutive-ones) |
@@ -146,6 +147,7 @@ Consistent practice and clean implementation.
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/NitinKumai/Data--Structures-and--Algorithm-/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/NitinKumai/Data--Structures-and--Algorithm-/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/NitinKumai/Data--Structures-and--Algorithm-/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0240-search-a-2d-matrix-ii](https://github.com/NitinKumai/Data--Structures-and--Algorithm-/tree/master/0240-search-a-2d-matrix-ii) |
 | [0704-binary-search](https://github.com/NitinKumai/Data--Structures-and--Algorithm-/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/NitinKumai/Data--Structures-and--Algorithm-/tree/master/0875-koko-eating-bananas) |
 | [1004-max-consecutive-ones-iii](https://github.com/NitinKumai/Data--Structures-and--Algorithm-/tree/master/1004-max-consecutive-ones-iii) |
@@ -179,6 +181,7 @@ Consistent practice and clean implementation.
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/NitinKumai/Data--Structures-and--Algorithm-/tree/master/0004-median-of-two-sorted-arrays) |
 | [0053-maximum-subarray](https://github.com/NitinKumai/Data--Structures-and--Algorithm-/tree/master/0053-maximum-subarray) |
+| [0240-search-a-2d-matrix-ii](https://github.com/NitinKumai/Data--Structures-and--Algorithm-/tree/master/0240-search-a-2d-matrix-ii) |
 | [0918-maximum-sum-circular-subarray](https://github.com/NitinKumai/Data--Structures-and--Algorithm-/tree/master/0918-maximum-sum-circular-subarray) |
 ## Design
 |  |
@@ -200,4 +203,5 @@ Consistent practice and clean implementation.
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/NitinKumai/Data--Structures-and--Algorithm-/tree/master/0074-search-a-2d-matrix) |
+| [0240-search-a-2d-matrix-ii](https://github.com/NitinKumai/Data--Structures-and--Algorithm-/tree/master/0240-search-a-2d-matrix-ii) |
 <!---LeetCode Topics End-->
