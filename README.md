@@ -42,6 +42,7 @@ Consistent practice and clean implementation.
 | [0004-median-of-two-sorted-arrays](https://github.com/NitinKumai/Data--Structures-and--Algorithm-/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/NitinKumai/Data--Structures-and--Algorithm-/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/NitinKumai/Data--Structures-and--Algorithm-/tree/master/0015-3sum) |
+| [0018-4sum](https://github.com/NitinKumai/Data--Structures-and--Algorithm-/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/NitinKumai/Data--Structures-and--Algorithm-/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0033-search-in-rotated-sorted-array](https://github.com/NitinKumai/Data--Structures-and--Algorithm-/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/NitinKumai/Data--Structures-and--Algorithm-/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
@@ -123,6 +124,7 @@ Consistent practice and clean implementation.
 |  |
 | ------- |
 | [0015-3sum](https://github.com/NitinKumai/Data--Structures-and--Algorithm-/tree/master/0015-3sum) |
+| [0018-4sum](https://github.com/NitinKumai/Data--Structures-and--Algorithm-/tree/master/0018-4sum) |
 | [0075-sort-colors](https://github.com/NitinKumai/Data--Structures-and--Algorithm-/tree/master/0075-sort-colors) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/NitinKumai/Data--Structures-and--Algorithm-/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 ## Hash Table
@@ -172,6 +174,7 @@ Consistent practice and clean implementation.
 | ------- |
 | [0011-container-with-most-water](https://github.com/NitinKumai/Data--Structures-and--Algorithm-/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/NitinKumai/Data--Structures-and--Algorithm-/tree/master/0015-3sum) |
+| [0018-4sum](https://github.com/NitinKumai/Data--Structures-and--Algorithm-/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/NitinKumai/Data--Structures-and--Algorithm-/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0075-sort-colors](https://github.com/NitinKumai/Data--Structures-and--Algorithm-/tree/master/0075-sort-colors) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/NitinKumai/Data--Structures-and--Algorithm-/tree/master/0167-two-sum-ii-input-array-is-sorted) |
