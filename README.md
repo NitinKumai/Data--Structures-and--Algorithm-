@@ -48,6 +48,7 @@ Consistent practice and clean implementation.
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/NitinKumai/Data--Structures-and--Algorithm-/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/NitinKumai/Data--Structures-and--Algorithm-/tree/master/0035-search-insert-position) |
 | [0053-maximum-subarray](https://github.com/NitinKumai/Data--Structures-and--Algorithm-/tree/master/0053-maximum-subarray) |
+| [0054-spiral-matrix](https://github.com/NitinKumai/Data--Structures-and--Algorithm-/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/NitinKumai/Data--Structures-and--Algorithm-/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/NitinKumai/Data--Structures-and--Algorithm-/tree/master/0075-sort-colors) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/NitinKumai/Data--Structures-and--Algorithm-/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -208,6 +209,7 @@ Consistent practice and clean implementation.
 ## Matrix
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/NitinKumai/Data--Structures-and--Algorithm-/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/NitinKumai/Data--Structures-and--Algorithm-/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/NitinKumai/Data--Structures-and--Algorithm-/tree/master/0240-search-a-2d-matrix-ii) |
 ## Stack
@@ -220,4 +222,8 @@ Consistent practice and clean implementation.
 | ------- |
 | [0020-valid-parentheses](https://github.com/NitinKumai/Data--Structures-and--Algorithm-/tree/master/0020-valid-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/NitinKumai/Data--Structures-and--Algorithm-/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+## Simulation
+|  |
+| ------- |
+| [0054-spiral-matrix](https://github.com/NitinKumai/Data--Structures-and--Algorithm-/tree/master/0054-spiral-matrix) |
 <!---LeetCode Topics End-->
