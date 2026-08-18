@@ -115,6 +115,7 @@ Consistent practice and clean implementation.
 | [0006-zigzag-conversion](https://github.com/NitinKumai/Data--Structures-and--Algorithm-/tree/master/0006-zigzag-conversion) |
 | [0012-integer-to-roman](https://github.com/NitinKumai/Data--Structures-and--Algorithm-/tree/master/0012-integer-to-roman) |
 | [0020-valid-parentheses](https://github.com/NitinKumai/Data--Structures-and--Algorithm-/tree/master/0020-valid-parentheses) |
+| [0242-valid-anagram](https://github.com/NitinKumai/Data--Structures-and--Algorithm-/tree/master/0242-valid-anagram) |
 | [0424-longest-repeating-character-replacement](https://github.com/NitinKumai/Data--Structures-and--Algorithm-/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/NitinKumai/Data--Structures-and--Algorithm-/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/NitinKumai/Data--Structures-and--Algorithm-/tree/master/0567-permutation-in-string) |
@@ -127,6 +128,7 @@ Consistent practice and clean implementation.
 | [0015-3sum](https://github.com/NitinKumai/Data--Structures-and--Algorithm-/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/NitinKumai/Data--Structures-and--Algorithm-/tree/master/0018-4sum) |
 | [0075-sort-colors](https://github.com/NitinKumai/Data--Structures-and--Algorithm-/tree/master/0075-sort-colors) |
+| [0242-valid-anagram](https://github.com/NitinKumai/Data--Structures-and--Algorithm-/tree/master/0242-valid-anagram) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/NitinKumai/Data--Structures-and--Algorithm-/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 ## Hash Table
 |  |
@@ -135,6 +137,7 @@ Consistent practice and clean implementation.
 | [0003-longest-substring-without-repeating-characters](https://github.com/NitinKumai/Data--Structures-and--Algorithm-/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0012-integer-to-roman](https://github.com/NitinKumai/Data--Structures-and--Algorithm-/tree/master/0012-integer-to-roman) |
 | [0219-contains-duplicate-ii](https://github.com/NitinKumai/Data--Structures-and--Algorithm-/tree/master/0219-contains-duplicate-ii) |
+| [0242-valid-anagram](https://github.com/NitinKumai/Data--Structures-and--Algorithm-/tree/master/0242-valid-anagram) |
 | [0424-longest-repeating-character-replacement](https://github.com/NitinKumai/Data--Structures-and--Algorithm-/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/NitinKumai/Data--Structures-and--Algorithm-/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0560-subarray-sum-equals-k](https://github.com/NitinKumai/Data--Structures-and--Algorithm-/tree/master/0560-subarray-sum-equals-k) |
