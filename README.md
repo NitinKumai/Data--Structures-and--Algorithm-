@@ -116,6 +116,7 @@ Consistent practice and clean implementation.
 | [0012-integer-to-roman](https://github.com/NitinKumai/Data--Structures-and--Algorithm-/tree/master/0012-integer-to-roman) |
 | [0020-valid-parentheses](https://github.com/NitinKumai/Data--Structures-and--Algorithm-/tree/master/0020-valid-parentheses) |
 | [0242-valid-anagram](https://github.com/NitinKumai/Data--Structures-and--Algorithm-/tree/master/0242-valid-anagram) |
+| [0387-first-unique-character-in-a-string](https://github.com/NitinKumai/Data--Structures-and--Algorithm-/tree/master/0387-first-unique-character-in-a-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/NitinKumai/Data--Structures-and--Algorithm-/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/NitinKumai/Data--Structures-and--Algorithm-/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/NitinKumai/Data--Structures-and--Algorithm-/tree/master/0567-permutation-in-string) |
@@ -138,6 +139,7 @@ Consistent practice and clean implementation.
 | [0012-integer-to-roman](https://github.com/NitinKumai/Data--Structures-and--Algorithm-/tree/master/0012-integer-to-roman) |
 | [0219-contains-duplicate-ii](https://github.com/NitinKumai/Data--Structures-and--Algorithm-/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/NitinKumai/Data--Structures-and--Algorithm-/tree/master/0242-valid-anagram) |
+| [0387-first-unique-character-in-a-string](https://github.com/NitinKumai/Data--Structures-and--Algorithm-/tree/master/0387-first-unique-character-in-a-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/NitinKumai/Data--Structures-and--Algorithm-/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/NitinKumai/Data--Structures-and--Algorithm-/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0560-subarray-sum-equals-k](https://github.com/NitinKumai/Data--Structures-and--Algorithm-/tree/master/0560-subarray-sum-equals-k) |
@@ -204,6 +206,7 @@ Consistent practice and clean implementation.
 ## Queue
 |  |
 | ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/NitinKumai/Data--Structures-and--Algorithm-/tree/master/0387-first-unique-character-in-a-string) |
 | [0918-maximum-sum-circular-subarray](https://github.com/NitinKumai/Data--Structures-and--Algorithm-/tree/master/0918-maximum-sum-circular-subarray) |
 ## Monotonic Queue
 |  |
@@ -229,4 +232,8 @@ Consistent practice and clean implementation.
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/NitinKumai/Data--Structures-and--Algorithm-/tree/master/0054-spiral-matrix) |
+## Counting
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/NitinKumai/Data--Structures-and--Algorithm-/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
