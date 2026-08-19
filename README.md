@@ -31,6 +31,7 @@ Consistent practice and clean implementation.
 | [0002-add-two-numbers](https://github.com/NitinKumai/Data--Structures-and--Algorithm-/tree/master/0002-add-two-numbers) |
 | [0012-integer-to-roman](https://github.com/NitinKumai/Data--Structures-and--Algorithm-/tree/master/0012-integer-to-roman) |
 | [0189-rotate-array](https://github.com/NitinKumai/Data--Structures-and--Algorithm-/tree/master/0189-rotate-array) |
+| [0268-missing-number](https://github.com/NitinKumai/Data--Structures-and--Algorithm-/tree/master/0268-missing-number) |
 ## Recursion
 |  |
 | ------- |
@@ -60,6 +61,7 @@ Consistent practice and clean implementation.
 | [0219-contains-duplicate-ii](https://github.com/NitinKumai/Data--Structures-and--Algorithm-/tree/master/0219-contains-duplicate-ii) |
 | [0238-product-of-array-except-self](https://github.com/NitinKumai/Data--Structures-and--Algorithm-/tree/master/0238-product-of-array-except-self) |
 | [0240-search-a-2d-matrix-ii](https://github.com/NitinKumai/Data--Structures-and--Algorithm-/tree/master/0240-search-a-2d-matrix-ii) |
+| [0268-missing-number](https://github.com/NitinKumai/Data--Structures-and--Algorithm-/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/NitinKumai/Data--Structures-and--Algorithm-/tree/master/0283-move-zeroes) |
 | [0303-range-sum-query-immutable](https://github.com/NitinKumai/Data--Structures-and--Algorithm-/tree/master/0303-range-sum-query-immutable) |
 | [0349-intersection-of-two-arrays](https://github.com/NitinKumai/Data--Structures-and--Algorithm-/tree/master/0349-intersection-of-two-arrays) |
@@ -132,6 +134,7 @@ Consistent practice and clean implementation.
 | [0018-4sum](https://github.com/NitinKumai/Data--Structures-and--Algorithm-/tree/master/0018-4sum) |
 | [0075-sort-colors](https://github.com/NitinKumai/Data--Structures-and--Algorithm-/tree/master/0075-sort-colors) |
 | [0242-valid-anagram](https://github.com/NitinKumai/Data--Structures-and--Algorithm-/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/NitinKumai/Data--Structures-and--Algorithm-/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/NitinKumai/Data--Structures-and--Algorithm-/tree/master/0349-intersection-of-two-arrays) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/NitinKumai/Data--Structures-and--Algorithm-/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 ## Hash Table
@@ -142,6 +145,7 @@ Consistent practice and clean implementation.
 | [0012-integer-to-roman](https://github.com/NitinKumai/Data--Structures-and--Algorithm-/tree/master/0012-integer-to-roman) |
 | [0219-contains-duplicate-ii](https://github.com/NitinKumai/Data--Structures-and--Algorithm-/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/NitinKumai/Data--Structures-and--Algorithm-/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/NitinKumai/Data--Structures-and--Algorithm-/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/NitinKumai/Data--Structures-and--Algorithm-/tree/master/0349-intersection-of-two-arrays) |
 | [0387-first-unique-character-in-a-string](https://github.com/NitinKumai/Data--Structures-and--Algorithm-/tree/master/0387-first-unique-character-in-a-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/NitinKumai/Data--Structures-and--Algorithm-/tree/master/0424-longest-repeating-character-replacement) |
@@ -163,6 +167,7 @@ Consistent practice and clean implementation.
 | [0162-find-peak-element](https://github.com/NitinKumai/Data--Structures-and--Algorithm-/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/NitinKumai/Data--Structures-and--Algorithm-/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0240-search-a-2d-matrix-ii](https://github.com/NitinKumai/Data--Structures-and--Algorithm-/tree/master/0240-search-a-2d-matrix-ii) |
+| [0268-missing-number](https://github.com/NitinKumai/Data--Structures-and--Algorithm-/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/NitinKumai/Data--Structures-and--Algorithm-/tree/master/0349-intersection-of-two-arrays) |
 | [0704-binary-search](https://github.com/NitinKumai/Data--Structures-and--Algorithm-/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/NitinKumai/Data--Structures-and--Algorithm-/tree/master/0875-koko-eating-bananas) |
@@ -248,4 +253,8 @@ Consistent practice and clean implementation.
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/NitinKumai/Data--Structures-and--Algorithm-/tree/master/0496-next-greater-element-i) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/NitinKumai/Data--Structures-and--Algorithm-/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
