@@ -58,6 +58,7 @@ Consistent practice and clean implementation.
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/NitinKumai/Data--Structures-and--Algorithm-/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/NitinKumai/Data--Structures-and--Algorithm-/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/NitinKumai/Data--Structures-and--Algorithm-/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0169-majority-element](https://github.com/NitinKumai/Data--Structures-and--Algorithm-/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/NitinKumai/Data--Structures-and--Algorithm-/tree/master/0189-rotate-array) |
 | [0219-contains-duplicate-ii](https://github.com/NitinKumai/Data--Structures-and--Algorithm-/tree/master/0219-contains-duplicate-ii) |
 | [0238-product-of-array-except-self](https://github.com/NitinKumai/Data--Structures-and--Algorithm-/tree/master/0238-product-of-array-except-self) |
@@ -134,6 +135,7 @@ Consistent practice and clean implementation.
 | [0015-3sum](https://github.com/NitinKumai/Data--Structures-and--Algorithm-/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/NitinKumai/Data--Structures-and--Algorithm-/tree/master/0018-4sum) |
 | [0075-sort-colors](https://github.com/NitinKumai/Data--Structures-and--Algorithm-/tree/master/0075-sort-colors) |
+| [0169-majority-element](https://github.com/NitinKumai/Data--Structures-and--Algorithm-/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/NitinKumai/Data--Structures-and--Algorithm-/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/NitinKumai/Data--Structures-and--Algorithm-/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/NitinKumai/Data--Structures-and--Algorithm-/tree/master/0349-intersection-of-two-arrays) |
@@ -144,6 +146,7 @@ Consistent practice and clean implementation.
 | [0001-two-sum](https://github.com/NitinKumai/Data--Structures-and--Algorithm-/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/NitinKumai/Data--Structures-and--Algorithm-/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0012-integer-to-roman](https://github.com/NitinKumai/Data--Structures-and--Algorithm-/tree/master/0012-integer-to-roman) |
+| [0169-majority-element](https://github.com/NitinKumai/Data--Structures-and--Algorithm-/tree/master/0169-majority-element) |
 | [0219-contains-duplicate-ii](https://github.com/NitinKumai/Data--Structures-and--Algorithm-/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/NitinKumai/Data--Structures-and--Algorithm-/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/NitinKumai/Data--Structures-and--Algorithm-/tree/master/0268-missing-number) |
@@ -206,6 +209,7 @@ Consistent practice and clean implementation.
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/NitinKumai/Data--Structures-and--Algorithm-/tree/master/0004-median-of-two-sorted-arrays) |
 | [0053-maximum-subarray](https://github.com/NitinKumai/Data--Structures-and--Algorithm-/tree/master/0053-maximum-subarray) |
+| [0169-majority-element](https://github.com/NitinKumai/Data--Structures-and--Algorithm-/tree/master/0169-majority-element) |
 | [0240-search-a-2d-matrix-ii](https://github.com/NitinKumai/Data--Structures-and--Algorithm-/tree/master/0240-search-a-2d-matrix-ii) |
 | [0918-maximum-sum-circular-subarray](https://github.com/NitinKumai/Data--Structures-and--Algorithm-/tree/master/0918-maximum-sum-circular-subarray) |
 ## Design
@@ -250,6 +254,7 @@ Consistent practice and clean implementation.
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/NitinKumai/Data--Structures-and--Algorithm-/tree/master/0169-majority-element) |
 | [0387-first-unique-character-in-a-string](https://github.com/NitinKumai/Data--Structures-and--Algorithm-/tree/master/0387-first-unique-character-in-a-string) |
 ## Monotonic Stack
 |  |
@@ -259,4 +264,8 @@ Consistent practice and clean implementation.
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/NitinKumai/Data--Structures-and--Algorithm-/tree/master/0268-missing-number) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/NitinKumai/Data--Structures-and--Algorithm-/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
