@@ -30,6 +30,7 @@ Consistent practice and clean implementation.
 | ------- |
 | [0002-add-two-numbers](https://github.com/NitinKumai/Data--Structures-and--Algorithm-/tree/master/0002-add-two-numbers) |
 | [0012-integer-to-roman](https://github.com/NitinKumai/Data--Structures-and--Algorithm-/tree/master/0012-integer-to-roman) |
+| [0070-climbing-stairs](https://github.com/NitinKumai/Data--Structures-and--Algorithm-/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/NitinKumai/Data--Structures-and--Algorithm-/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/NitinKumai/Data--Structures-and--Algorithm-/tree/master/0268-missing-number) |
 ## Recursion
@@ -95,6 +96,7 @@ Consistent practice and clean implementation.
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/NitinKumai/Data--Structures-and--Algorithm-/tree/master/0053-maximum-subarray) |
+| [0070-climbing-stairs](https://github.com/NitinKumai/Data--Structures-and--Algorithm-/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/NitinKumai/Data--Structures-and--Algorithm-/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/NitinKumai/Data--Structures-and--Algorithm-/tree/master/0152-maximum-product-subarray) |
 | [0918-maximum-sum-circular-subarray](https://github.com/NitinKumai/Data--Structures-and--Algorithm-/tree/master/0918-maximum-sum-circular-subarray) |
@@ -275,4 +277,8 @@ Consistent practice and clean implementation.
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/NitinKumai/Data--Structures-and--Algorithm-/tree/master/0169-majority-element) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/NitinKumai/Data--Structures-and--Algorithm-/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
