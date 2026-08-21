@@ -281,4 +281,12 @@ Consistent practice and clean implementation.
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/NitinKumai/Data--Structures-and--Algorithm-/tree/master/0070-climbing-stairs) |
+## Quicksort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/NitinKumai/Data--Structures-and--Algorithm-/tree/master/0075-sort-colors) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/NitinKumai/Data--Structures-and--Algorithm-/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
