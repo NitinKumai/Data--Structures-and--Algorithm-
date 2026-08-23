@@ -50,6 +50,7 @@ Consistent practice and clean implementation.
 | [0033-search-in-rotated-sorted-array](https://github.com/NitinKumai/Data--Structures-and--Algorithm-/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/NitinKumai/Data--Structures-and--Algorithm-/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/NitinKumai/Data--Structures-and--Algorithm-/tree/master/0035-search-insert-position) |
+| [0036-valid-sudoku](https://github.com/NitinKumai/Data--Structures-and--Algorithm-/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/NitinKumai/Data--Structures-and--Algorithm-/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/NitinKumai/Data--Structures-and--Algorithm-/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/NitinKumai/Data--Structures-and--Algorithm-/tree/master/0054-spiral-matrix) |
@@ -158,6 +159,7 @@ Consistent practice and clean implementation.
 | [0001-two-sum](https://github.com/NitinKumai/Data--Structures-and--Algorithm-/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/NitinKumai/Data--Structures-and--Algorithm-/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0012-integer-to-roman](https://github.com/NitinKumai/Data--Structures-and--Algorithm-/tree/master/0012-integer-to-roman) |
+| [0036-valid-sudoku](https://github.com/NitinKumai/Data--Structures-and--Algorithm-/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/NitinKumai/Data--Structures-and--Algorithm-/tree/master/0049-group-anagrams) |
 | [0169-majority-element](https://github.com/NitinKumai/Data--Structures-and--Algorithm-/tree/master/0169-majority-element) |
 | [0219-contains-duplicate-ii](https://github.com/NitinKumai/Data--Structures-and--Algorithm-/tree/master/0219-contains-duplicate-ii) |
@@ -249,6 +251,7 @@ Consistent practice and clean implementation.
 ## Matrix
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/NitinKumai/Data--Structures-and--Algorithm-/tree/master/0036-valid-sudoku) |
 | [0054-spiral-matrix](https://github.com/NitinKumai/Data--Structures-and--Algorithm-/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/NitinKumai/Data--Structures-and--Algorithm-/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/NitinKumai/Data--Structures-and--Algorithm-/tree/master/0240-search-a-2d-matrix-ii) |
