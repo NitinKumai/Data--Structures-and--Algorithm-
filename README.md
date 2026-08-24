@@ -78,6 +78,7 @@ Consistent practice and clean implementation.
 | [0414-third-maximum-number](https://github.com/NitinKumai/Data--Structures-and--Algorithm-/tree/master/0414-third-maximum-number) |
 | [0485-max-consecutive-ones](https://github.com/NitinKumai/Data--Structures-and--Algorithm-/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/NitinKumai/Data--Structures-and--Algorithm-/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/NitinKumai/Data--Structures-and--Algorithm-/tree/master/0503-next-greater-element-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/NitinKumai/Data--Structures-and--Algorithm-/tree/master/0560-subarray-sum-equals-k) |
 | [0643-maximum-average-subarray-i](https://github.com/NitinKumai/Data--Structures-and--Algorithm-/tree/master/0643-maximum-average-subarray-i) |
 | [0704-binary-search](https://github.com/NitinKumai/Data--Structures-and--Algorithm-/tree/master/0704-binary-search) |
@@ -265,6 +266,7 @@ Consistent practice and clean implementation.
 | ------- |
 | [0020-valid-parentheses](https://github.com/NitinKumai/Data--Structures-and--Algorithm-/tree/master/0020-valid-parentheses) |
 | [0496-next-greater-element-i](https://github.com/NitinKumai/Data--Structures-and--Algorithm-/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/NitinKumai/Data--Structures-and--Algorithm-/tree/master/0503-next-greater-element-ii) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/NitinKumai/Data--Structures-and--Algorithm-/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 ## Bracket Sequences
 |  |
@@ -285,6 +287,7 @@ Consistent practice and clean implementation.
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/NitinKumai/Data--Structures-and--Algorithm-/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/NitinKumai/Data--Structures-and--Algorithm-/tree/master/0503-next-greater-element-ii) |
 ## Bit Manipulation
 |  |
 | ------- |
