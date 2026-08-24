@@ -2,29 +2,34 @@ class Solution {
 public:
     vector<int> nextGreaterElement(vector<int>& nums1, vector<int>& nums2) {
 
-        unordered_map<int, int> mp;
+        vector<int> nge(nums2.size(), -1);
         stack<int> st;
 
-        // Find next greater element for every number in nums2
-        for(int i = 0; i < nums2.size(); i++){
+        // Monotonic stack
+        for(int i = nums2.size() - 1; i >= 0; i--) {
 
-            while(!st.empty() && nums2[i] > st.top()){
-                mp[st.top()] = nums2[i];
+            while(!st.empty() && st.top() <= nums2[i]) {
                 st.pop();
+            }
+
+            if(!st.empty()) {
+                nge[i] = st.top();
             }
 
             st.push(nums2[i]);
         }
 
         // Get answers for nums1
-        vector<int> ans;
+        vector<int> ans(nums1.size(), -1);
 
-        for(int x : nums1){
-            if(mp.find(x) != mp.end()){
-                ans.push_back(mp[x]);
-            }
-            else{
-                ans.push_back(-1);
+        for(int i = 0; i < nums1.size(); i++) {
+
+            for(int j = 0; j < nums2.size(); j++) {
+
+                if(nums2[j] == nums1[i]) {
+                    ans[i] = nge[j];
+                    break;
+                }
             }
         }
 
