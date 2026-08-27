@@ -241,6 +241,7 @@ Consistent practice and clean implementation.
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/NitinKumai/Data--Structures-and--Algorithm-/tree/master/0303-range-sum-query-immutable) |
+| [0901-online-stock-span](https://github.com/NitinKumai/Data--Structures-and--Algorithm-/tree/master/0901-online-stock-span) |
 ## Greedy
 |  |
 | ------- |
@@ -269,6 +270,7 @@ Consistent practice and clean implementation.
 | [0496-next-greater-element-i](https://github.com/NitinKumai/Data--Structures-and--Algorithm-/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/NitinKumai/Data--Structures-and--Algorithm-/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/NitinKumai/Data--Structures-and--Algorithm-/tree/master/0739-daily-temperatures) |
+| [0901-online-stock-span](https://github.com/NitinKumai/Data--Structures-and--Algorithm-/tree/master/0901-online-stock-span) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/NitinKumai/Data--Structures-and--Algorithm-/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 ## Bracket Sequences
 |  |
@@ -291,6 +293,7 @@ Consistent practice and clean implementation.
 | [0496-next-greater-element-i](https://github.com/NitinKumai/Data--Structures-and--Algorithm-/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/NitinKumai/Data--Structures-and--Algorithm-/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/NitinKumai/Data--Structures-and--Algorithm-/tree/master/0739-daily-temperatures) |
+| [0901-online-stock-span](https://github.com/NitinKumai/Data--Structures-and--Algorithm-/tree/master/0901-online-stock-span) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -330,4 +333,8 @@ Consistent practice and clean implementation.
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/NitinKumai/Data--Structures-and--Algorithm-/tree/master/0128-longest-consecutive-sequence) |
+## Data Stream
+|  |
+| ------- |
+| [0901-online-stock-span](https://github.com/NitinKumai/Data--Structures-and--Algorithm-/tree/master/0901-online-stock-span) |
 <!---LeetCode Topics End-->
