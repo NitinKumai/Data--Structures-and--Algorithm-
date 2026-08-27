@@ -83,6 +83,7 @@ Consistent practice and clean implementation.
 | [0643-maximum-average-subarray-i](https://github.com/NitinKumai/Data--Structures-and--Algorithm-/tree/master/0643-maximum-average-subarray-i) |
 | [0704-binary-search](https://github.com/NitinKumai/Data--Structures-and--Algorithm-/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/NitinKumai/Data--Structures-and--Algorithm-/tree/master/0724-find-pivot-index) |
+| [0739-daily-temperatures](https://github.com/NitinKumai/Data--Structures-and--Algorithm-/tree/master/0739-daily-temperatures) |
 | [0875-koko-eating-bananas](https://github.com/NitinKumai/Data--Structures-and--Algorithm-/tree/master/0875-koko-eating-bananas) |
 | [0904-fruit-into-baskets](https://github.com/NitinKumai/Data--Structures-and--Algorithm-/tree/master/0904-fruit-into-baskets) |
 | [0918-maximum-sum-circular-subarray](https://github.com/NitinKumai/Data--Structures-and--Algorithm-/tree/master/0918-maximum-sum-circular-subarray) |
@@ -267,6 +268,7 @@ Consistent practice and clean implementation.
 | [0020-valid-parentheses](https://github.com/NitinKumai/Data--Structures-and--Algorithm-/tree/master/0020-valid-parentheses) |
 | [0496-next-greater-element-i](https://github.com/NitinKumai/Data--Structures-and--Algorithm-/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/NitinKumai/Data--Structures-and--Algorithm-/tree/master/0503-next-greater-element-ii) |
+| [0739-daily-temperatures](https://github.com/NitinKumai/Data--Structures-and--Algorithm-/tree/master/0739-daily-temperatures) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/NitinKumai/Data--Structures-and--Algorithm-/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 ## Bracket Sequences
 |  |
@@ -288,6 +290,7 @@ Consistent practice and clean implementation.
 | ------- |
 | [0496-next-greater-element-i](https://github.com/NitinKumai/Data--Structures-and--Algorithm-/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/NitinKumai/Data--Structures-and--Algorithm-/tree/master/0503-next-greater-element-ii) |
+| [0739-daily-temperatures](https://github.com/NitinKumai/Data--Structures-and--Algorithm-/tree/master/0739-daily-temperatures) |
 ## Bit Manipulation
 |  |
 | ------- |
