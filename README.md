@@ -136,6 +136,7 @@ Consistent practice and clean implementation.
 | [0020-valid-parentheses](https://github.com/NitinKumai/Data--Structures-and--Algorithm-/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/NitinKumai/Data--Structures-and--Algorithm-/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/NitinKumai/Data--Structures-and--Algorithm-/tree/master/0242-valid-anagram) |
+| [0316-remove-duplicate-letters](https://github.com/NitinKumai/Data--Structures-and--Algorithm-/tree/master/0316-remove-duplicate-letters) |
 | [0387-first-unique-character-in-a-string](https://github.com/NitinKumai/Data--Structures-and--Algorithm-/tree/master/0387-first-unique-character-in-a-string) |
 | [0402-remove-k-digits](https://github.com/NitinKumai/Data--Structures-and--Algorithm-/tree/master/0402-remove-k-digits) |
 | [0424-longest-repeating-character-replacement](https://github.com/NitinKumai/Data--Structures-and--Algorithm-/tree/master/0424-longest-repeating-character-replacement) |
@@ -248,6 +249,7 @@ Consistent practice and clean implementation.
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/NitinKumai/Data--Structures-and--Algorithm-/tree/master/0011-container-with-most-water) |
+| [0316-remove-duplicate-letters](https://github.com/NitinKumai/Data--Structures-and--Algorithm-/tree/master/0316-remove-duplicate-letters) |
 | [0402-remove-k-digits](https://github.com/NitinKumai/Data--Structures-and--Algorithm-/tree/master/0402-remove-k-digits) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/NitinKumai/Data--Structures-and--Algorithm-/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 ## Queue
@@ -270,6 +272,7 @@ Consistent practice and clean implementation.
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/NitinKumai/Data--Structures-and--Algorithm-/tree/master/0020-valid-parentheses) |
+| [0316-remove-duplicate-letters](https://github.com/NitinKumai/Data--Structures-and--Algorithm-/tree/master/0316-remove-duplicate-letters) |
 | [0402-remove-k-digits](https://github.com/NitinKumai/Data--Structures-and--Algorithm-/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/NitinKumai/Data--Structures-and--Algorithm-/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/NitinKumai/Data--Structures-and--Algorithm-/tree/master/0503-next-greater-element-ii) |
@@ -296,6 +299,7 @@ Consistent practice and clean implementation.
 ## Monotonic Stack
 |  |
 | ------- |
+| [0316-remove-duplicate-letters](https://github.com/NitinKumai/Data--Structures-and--Algorithm-/tree/master/0316-remove-duplicate-letters) |
 | [0402-remove-k-digits](https://github.com/NitinKumai/Data--Structures-and--Algorithm-/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/NitinKumai/Data--Structures-and--Algorithm-/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/NitinKumai/Data--Structures-and--Algorithm-/tree/master/0503-next-greater-element-ii) |
