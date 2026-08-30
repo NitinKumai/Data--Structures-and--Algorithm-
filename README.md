@@ -143,6 +143,7 @@ Consistent practice and clean implementation.
 | [0438-find-all-anagrams-in-a-string](https://github.com/NitinKumai/Data--Structures-and--Algorithm-/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/NitinKumai/Data--Structures-and--Algorithm-/tree/master/0567-permutation-in-string) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/NitinKumai/Data--Structures-and--Algorithm-/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/NitinKumai/Data--Structures-and--Algorithm-/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/NitinKumai/Data--Structures-and--Algorithm-/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/NitinKumai/Data--Structures-and--Algorithm-/tree/master/2379-minimum-recolors-to-get-k-consecutive-black-blocks) |
 ## Sorting
@@ -252,6 +253,7 @@ Consistent practice and clean implementation.
 | [0316-remove-duplicate-letters](https://github.com/NitinKumai/Data--Structures-and--Algorithm-/tree/master/0316-remove-duplicate-letters) |
 | [0402-remove-k-digits](https://github.com/NitinKumai/Data--Structures-and--Algorithm-/tree/master/0402-remove-k-digits) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/NitinKumai/Data--Structures-and--Algorithm-/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/NitinKumai/Data--Structures-and--Algorithm-/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Queue
 |  |
 | ------- |
@@ -280,6 +282,7 @@ Consistent practice and clean implementation.
 | [0739-daily-temperatures](https://github.com/NitinKumai/Data--Structures-and--Algorithm-/tree/master/0739-daily-temperatures) |
 | [0901-online-stock-span](https://github.com/NitinKumai/Data--Structures-and--Algorithm-/tree/master/0901-online-stock-span) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/NitinKumai/Data--Structures-and--Algorithm-/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/NitinKumai/Data--Structures-and--Algorithm-/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Bracket Sequences
 |  |
 | ------- |
@@ -305,6 +308,7 @@ Consistent practice and clean implementation.
 | [0503-next-greater-element-ii](https://github.com/NitinKumai/Data--Structures-and--Algorithm-/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/NitinKumai/Data--Structures-and--Algorithm-/tree/master/0739-daily-temperatures) |
 | [0901-online-stock-span](https://github.com/NitinKumai/Data--Structures-and--Algorithm-/tree/master/0901-online-stock-span) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/NitinKumai/Data--Structures-and--Algorithm-/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Bit Manipulation
 |  |
 | ------- |
