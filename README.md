@@ -105,6 +105,7 @@ Consistent practice and clean implementation.
 | ------- |
 | [0053-maximum-subarray](https://github.com/NitinKumai/Data--Structures-and--Algorithm-/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/NitinKumai/Data--Structures-and--Algorithm-/tree/master/0070-climbing-stairs) |
+| [0091-decode-ways](https://github.com/NitinKumai/Data--Structures-and--Algorithm-/tree/master/0091-decode-ways) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/NitinKumai/Data--Structures-and--Algorithm-/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/NitinKumai/Data--Structures-and--Algorithm-/tree/master/0152-maximum-product-subarray) |
 | [0918-maximum-sum-circular-subarray](https://github.com/NitinKumai/Data--Structures-and--Algorithm-/tree/master/0918-maximum-sum-circular-subarray) |
@@ -135,6 +136,7 @@ Consistent practice and clean implementation.
 | [0012-integer-to-roman](https://github.com/NitinKumai/Data--Structures-and--Algorithm-/tree/master/0012-integer-to-roman) |
 | [0020-valid-parentheses](https://github.com/NitinKumai/Data--Structures-and--Algorithm-/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/NitinKumai/Data--Structures-and--Algorithm-/tree/master/0049-group-anagrams) |
+| [0091-decode-ways](https://github.com/NitinKumai/Data--Structures-and--Algorithm-/tree/master/0091-decode-ways) |
 | [0242-valid-anagram](https://github.com/NitinKumai/Data--Structures-and--Algorithm-/tree/master/0242-valid-anagram) |
 | [0316-remove-duplicate-letters](https://github.com/NitinKumai/Data--Structures-and--Algorithm-/tree/master/0316-remove-duplicate-letters) |
 | [0387-first-unique-character-in-a-string](https://github.com/NitinKumai/Data--Structures-and--Algorithm-/tree/master/0387-first-unique-character-in-a-string) |
