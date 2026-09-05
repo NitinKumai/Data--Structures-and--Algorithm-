@@ -30,6 +30,7 @@ Consistent practice and clean implementation.
 | ------- |
 | [0002-add-two-numbers](https://github.com/NitinKumai/Data--Structures-and--Algorithm-/tree/master/0002-add-two-numbers) |
 | [0012-integer-to-roman](https://github.com/NitinKumai/Data--Structures-and--Algorithm-/tree/master/0012-integer-to-roman) |
+| [0062-unique-paths](https://github.com/NitinKumai/Data--Structures-and--Algorithm-/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/NitinKumai/Data--Structures-and--Algorithm-/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/NitinKumai/Data--Structures-and--Algorithm-/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/NitinKumai/Data--Structures-and--Algorithm-/tree/master/0268-missing-number) |
@@ -104,6 +105,7 @@ Consistent practice and clean implementation.
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/NitinKumai/Data--Structures-and--Algorithm-/tree/master/0053-maximum-subarray) |
+| [0062-unique-paths](https://github.com/NitinKumai/Data--Structures-and--Algorithm-/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/NitinKumai/Data--Structures-and--Algorithm-/tree/master/0070-climbing-stairs) |
 | [0091-decode-ways](https://github.com/NitinKumai/Data--Structures-and--Algorithm-/tree/master/0091-decode-ways) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/NitinKumai/Data--Structures-and--Algorithm-/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -354,4 +356,8 @@ Consistent practice and clean implementation.
 |  |
 | ------- |
 | [0901-online-stock-span](https://github.com/NitinKumai/Data--Structures-and--Algorithm-/tree/master/0901-online-stock-span) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/NitinKumai/Data--Structures-and--Algorithm-/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
