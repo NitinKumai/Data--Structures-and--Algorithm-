@@ -2,25 +2,22 @@ class Solution {
 public:
     int minimumRecolors(string blocks, int k) {
         int left = 0;
-        int whitecount =0;
-        int mincount = INT_MAX;
-        for(int right = 0; right < blocks.size(); right++){
-            if(blocks[right]=='W'){
-                whitecount++;
+        int white_count = 0;
+        int min_count = INT_MAX;
+        for(int right = 0 ; right < blocks.size();right++){
+            if(blocks[right] =='W'){
+                white_count++;
             }
-            if(right - left+1 > k){
-            if(blocks[left] == 'W'){
-            whitecount--;
-
-            
+            if(right - left + 1 > k){
+                if(blocks[left]=='W'){
+                    white_count--;
+                }
+                left++;
             }
-            left++;
-            }
-        if(right - left +1 ==k) {
-                 mincount = min(mincount,whitecount);
+            if(right - left + 1 ==k){
+                min_count = min(min_count , white_count);
             }
         }
-            return mincount;
-        
+        return min_count;
     }
 };
